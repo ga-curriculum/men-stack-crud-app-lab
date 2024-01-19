@@ -19,17 +19,15 @@ Once you have decided on a type of resource you would like to build a CRUD app f
 
 ```javascript
 const mongoose = require('mongoose')
-const Schema = mongoose.Schema
 
-const Plant = new Schema(
-  {
-    name: { type: String, required: true },
-    description: { type: String, required: true },
-    image: { type: String },
-  }
-)
+const plantSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  description: { type: String, required: true },
+  image: String,
+})
 
-module.exports = mongoose.model('Plant', Plant)
+const Plant = mongoose.model('Plant', plantSchema)
+module.exports = Plant
 ```
 
 ### Methodically construct you application
