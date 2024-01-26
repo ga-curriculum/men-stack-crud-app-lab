@@ -1,4 +1,4 @@
-# ![Building a CRUD App Lab](./assets/tktk-hero.png)
+# ![MEN Stack CRUD App Lab](./assets/hero.png)
 
 ## About
 

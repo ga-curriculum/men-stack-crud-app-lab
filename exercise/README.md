@@ -1,4 +1,4 @@
-# ![Building a CRUD App with Mongoose, Express, and EJS Lab - Exercise](./assets/hero.png)
+# ![MEN Stack CRUD App Lab - Exercise](./assets/hero.png)
 
 ## Introduction
 

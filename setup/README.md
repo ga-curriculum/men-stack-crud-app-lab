@@ -1,4 +1,4 @@
-# ![Building a CRUD App with Mongoose, Express, and EJS Lab - Setup](./assets/hero.png)
+# ![MEN Stack CRUD App Lab - Setup](./assets/hero.png)
 
 
 Open your Terminal application and navigate to your `~/code/ga/labs` directory:
