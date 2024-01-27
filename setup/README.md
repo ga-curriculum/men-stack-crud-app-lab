@@ -1,15 +1,27 @@
 # ![MEN Stack CRUD App Lab - Setup](./assets/hero.png)
 
+## Setup
 
 Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 
-cd `~/code/ga/labs`
+```bash
+cd ~/code/ga/labs
+```
 
-Make a new directory called `crud-app-lab`, then enter this directory:
+Make a new repository on [GitHub](https://github.com/) named `men-stack-crud-app-lab`.  
+
+Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-mkdir crud-app-lab
-cd crud-app-lab
+git clone https://git.generalassemb.ly/<your-username>/men-stack-crud-app-lab.git
+```
+
+> 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
+
+Next, `cd` into your new cloned directory, `men-stack-crud-app-lab`:
+
+```bash
+cd men-stack-crud-app-lab
 ```
 
 In this directory create a `server.js` file:
