@@ -85,7 +85,10 @@ We've provided the steps below as a guide to get you started.
 
 #### 5. Create routes and views for CRUD operations
 
- - Start with the `CREATE` operation: Define a `/new` route in your server file. Then, create a `new.ejs` file inside the `views` directory. Use `res.render()` in the route to display this view.
+ - Start with the `CREATE` operation: 
+    - Define a `/new` route in your server file. 
+    - Then, create a `new.ejs` file inside the `views` directory. 
+    - Use `res.render()` in the route to display this view.
  - Repeat this process for each CRUD operation- create corresponding routes in your `server.js` file and views in the `views` directory.
  - Be sure you test each route and view in the browser to confirm functionality before moving to the next one.
 
