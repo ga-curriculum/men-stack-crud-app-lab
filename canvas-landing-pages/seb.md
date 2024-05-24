@@ -4,10 +4,6 @@
 
 This is lab practices building a CRUD application of a resource of your choice using the MEN stack.
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **120 minutes**
-
 ## Content
 
 - [Setup](../setup/README.md)
