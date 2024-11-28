@@ -1,4 +1,7 @@
-# ![MEN Stack CRUD App Lab - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">MEN Stack CRUD App Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
